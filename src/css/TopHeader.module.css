@@ -1,0 +1,36 @@
+/* src/css/TopHeader.module.css */
+.topHeader {
+    width: 1440px;
+    height: 72px;
+    display: flex;
+}
+
+.img {
+    width: 162.57px;
+    height: 24px;
+    margin-top: 24px;
+    margin-left: 72px;
+    gap: 0px;
+   
+}
+
+.headerForm{
+    display: flex;
+width: 360px;
+height: 42px;
+margin-top: 16px;
+/* margin-left: 250px; */
+gap: 0px;
+border-radius: 21px;
+/* opacity: 0px; */
+background-color: #F2F2F2;
+
+
+
+}
+
+
+
+
+
+
